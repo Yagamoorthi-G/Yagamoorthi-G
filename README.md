@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Zidio Learning App Dev.<br>👯 I’m looking to collaborate on open-source projects related to software development.<br>🤝 I’m looking for help with advanced concepts in Java, Flutter & Dart, SQL ....<br>🌱 I’m currently learning Flutter, Dart, and backend integration with Firebase.<br>💬 Ask me about "Java, MySQL, Flutter & Dart".<br>⚡ Fun fact I can solve a Rubik’s cube in under 2 minutes!
+🔭 I’m currently working on: Zidio Learning App Dev.<br>👯 I’m looking to collaborate on: open-source projects related to software development.<br>🤝 I’m looking for help with: advanced concepts in Java, Flutter & Dart, SQL ....<br>🌱 I’m currently learning: Flutter, Dart, and backend integration with Firebase.<br>💬 Ask me about: "Java, MySQL, Flutter & Dart".<br>⚡ Fun fact: I can solve a Rubik’s cube in under 2 minutes!
 
 
 ## 🌐 Socials:
