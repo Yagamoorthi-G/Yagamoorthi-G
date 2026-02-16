@@ -9,9 +9,9 @@ features through hands-on experimentation and project-based development.
 
 # 💻 Tech Stack:
 SKILLS
-- Languages: Java, Python, C++)
+- Languages: Java, Python, C++
 - Frontend: Flutter, HTML, CSS, JavaScript
-- Backend: Node.js, JDBC
+- Backend: Node.js, JDBC, PHP
 - Databases: MySQL, MongoDB, Oracle SQL
 - Cloud & Tools: AWS(EC2), Firebase, Git, GitHub, VS Code, Android Studio
 - Core Skills: Application Development, API Integration, Problem Solving, Debugging
